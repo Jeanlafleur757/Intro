@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Advance Python, Certified Kubernetes Administrator (CKA)**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/marben-i-1a939b201/](https://www.linkedin.com/in/marben-i-1a939b201/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/jean-lafleur-b48513342/](https://www.linkedin.com/in/jean-lafleur-b48513342/)
 
 - 💬 Certifications: **AWS SAP, CKAD, CASP, CYSA, SEC+**
 
